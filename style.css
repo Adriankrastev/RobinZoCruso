@@ -11,4 +11,13 @@ body {
     margin-right: auto;
     width: 900px;
     height: 1500px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+#wrapper #headder {
+    text-align: center;
+}
+#wrapper #headder #logo {
+    float: left;
 }
