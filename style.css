@@ -6,7 +6,7 @@ body {
     background-image: linear-gradient(135deg,rgba(130,169,255,1.00) 0%,rgba(182,116,255,1.00) 100%);
 }
 #wrapper {
-    background-color: #FFE69E;
+    background-color: #A9FFA3;
     margin-left: auto;
     margin-right: auto;
     width: 900px;
@@ -22,6 +22,7 @@ body {
     border-radius: 30px 15px;
     -webkit-box-shadow: 5px 5px 28px -1px #000000;
     box-shadow: 5px 5px 28px -1px #000000;
+    background-color: #A9C9FF;
 
 }
 #wrapper #headder #logo {
@@ -30,6 +31,12 @@ body {
 }
 #wrapper #menu {
     margin-top: 25px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border: 1px solid #E3C9FF;
+    -webkit-box-shadow: 4px 4px 15px -3px #000000;
+    box-shadow: 4px 4px 15px -3px #000000;
+    background-color: #FFDD77;
 }
 #wrapper #menu a {
     text-decoration: none;
