@@ -4,6 +4,7 @@ body {
     background-image: -moz-linear-gradient(315deg,rgba(130,169,255,1.00) 0%,rgba(182,116,255,1.00) 100%);
     background-image: -o-linear-gradient(315deg,rgba(130,169,255,1.00) 0%,rgba(182,116,255,1.00) 100%);
     background-image: linear-gradient(135deg,rgba(130,169,255,1.00) 0%,rgba(182,116,255,1.00) 100%);
+    font-size: 18px;
 }
 #wrapper {
     background-color: #A9FFA3;
@@ -31,13 +32,29 @@ body {
 }
 #wrapper #menu {
     margin-top: 25px;
-    padding-top: 9px;
-    padding-bottom: 9px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border: 1px solid #E3C9FF;
     -webkit-box-shadow: 4px 4px 15px -3px #000000;
     box-shadow: 4px 4px 15px -3px #000000;
     background-color: #FFDD77;
+    padding-left: 5px;
 }
+#wrapper #footer .icon {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #000000;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: #E7E7E7;
+    float: right;
+}
+#wrapper #footer {
+
+
+}
+
+
 #wrapper #menu a {
     text-decoration: none;
     color: #000000;
@@ -54,4 +71,11 @@ body {
     background-color: #23686F;
     color: #FFFFFF;
 	
+}
+#wrapper #main img {
+    float: left;
+    padding-top: 16px;
+    padding-right: 10px;
+    padding-left: 0px;
+    padding-bottom: 10px;
 }
