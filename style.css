@@ -43,13 +43,20 @@ body {
 #wrapper #footer .icon {
     width: 70px;
     height: 70px;
-    border: 1px solid #000000;
     padding-right: 10px;
     padding-bottom: 10px;
-    background-color: #E7E7E7;
     float: right;
 }
+#footer .icon img {
+	transition: 0.3s ease;
+}
+
+#footer .icon img:hover{
+    transform: translateY(-10px);
+}
+
 #wrapper #footer {
+    height: 12%;
 
 
 }
