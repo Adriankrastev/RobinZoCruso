@@ -15,6 +15,10 @@ body {
     margin-right: 16px;
     margin-top: 12px;
 }
+#wrapper #footer {
+    margin-top: 9px;
+}
+
 #vmenu #nav a {
     text-decoration: none;
     color: #000000;
