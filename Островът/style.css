@@ -47,6 +47,13 @@ body {
     border-width: 2px;
     border-style: solid;
     border-color: #EAEAEA #EAEAEA #5B5B5B #5B5B5B;
+	transition: 0.3s ease;
 }
+
+#nav .margin a:hover{
+    color: #FFFFFF;
+    background-color: #387C83;
+}
+
 #wrapper #main #aside {
 }
