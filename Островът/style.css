@@ -57,3 +57,7 @@ body {
 
 #wrapper #main #aside {
 }
+#main #aside img {
+    float: left;
+    padding-right: 10px;
+}
