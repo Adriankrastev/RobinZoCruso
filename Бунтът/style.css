@@ -1,16 +1,16 @@
 @charset "utf-8";
 body {
-    background-image: -webkit-linear-gradient(315deg,rgba(0,197,12,1.00) 0%,rgba(220,165,0,1.00) 100%);
-    background-image: -moz-linear-gradient(315deg,rgba(0,197,12,1.00) 0%,rgba(220,165,0,1.00) 100%);
-    background-image: -o-linear-gradient(315deg,rgba(0,197,12,1.00) 0%,rgba(220,165,0,1.00) 100%);
-    background-image: linear-gradient(135deg,rgba(0,197,12,1.00) 0%,rgba(220,165,0,1.00) 100%);
+    background-image: -webkit-linear-gradient(315deg,rgba(0,233,255,1.00) 0%,rgba(255,213,123,1.00) 49.12%,rgba(165,0,220,1.00) 100%);
+    background-image: -moz-linear-gradient(315deg,rgba(0,233,255,1.00) 0%,rgba(255,213,123,1.00) 49.12%,rgba(165,0,220,1.00) 100%);
+    background-image: -o-linear-gradient(315deg,rgba(0,233,255,1.00) 0%,rgba(255,213,123,1.00) 49.12%,rgba(165,0,220,1.00) 100%);
+    background-image: linear-gradient(135deg,rgba(0,233,255,1.00) 0.00%,rgba(255,213,123,1.00) 49.12%,rgba(165,0,220,1.00) 100%);
     font-size: 18px;
 }
 #wrapper {
     width: 900px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #FF9800;
+    background-color: #FFB242;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10px;
@@ -22,7 +22,7 @@ body {
     -webkit-box-shadow: 3px 5px 34px -8px;
     box-shadow: 3px 5px 34px -8px;
     border-radius: 30px 15px;
-    background-color: #FFCE3B;
+    background-color: #FFE28C;
 }
 #main #aside img {
     float: left;
