@@ -24,6 +24,11 @@ body {
     border-radius: 30px 15px;
     background-color: #FFDB70;
 }
+#wrapper #main hr {
+    border: 1px solid #000000;
+    background-color: #000000;
+}
+
 #main #aside img {
     float: left;
     padding-right: 10px;
