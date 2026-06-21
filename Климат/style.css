@@ -4,6 +4,7 @@ body {
     background-image: -moz-linear-gradient(315deg,rgba(0,197,12,1.00) 0%,rgba(220,165,0,1.00) 100%);
     background-image: -o-linear-gradient(315deg,rgba(0,197,12,1.00) 0%,rgba(220,165,0,1.00) 100%);
     background-image: linear-gradient(135deg,rgba(0,197,12,1.00) 0%,rgba(220,165,0,1.00) 100%);
+    font-size: 18px;
 }
 #wrapper {
     width: 900px;
@@ -37,7 +38,7 @@ body {
 }
 #wrapper #main #vmenu {
     float: left;
-    width: 139px;
+    width: 163px;
     height: 370px;
     background-color: #FF0002;
     padding-top: 10px;
